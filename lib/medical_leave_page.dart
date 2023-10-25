@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 class MedicalLeavePage extends StatefulWidget {
   @override
   final _formKey = GlobalKey<FormState>();
+
   _MedicalLeaveFormState createState() => _MedicalLeaveFormState();
 }
 

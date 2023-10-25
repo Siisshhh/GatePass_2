@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'gate_pass_page.dart';
 import 'medical_leave_page.dart';
 
+
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
